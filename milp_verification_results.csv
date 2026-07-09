@@ -1,0 +1,11 @@
+Instance,Config,n,Connected,Pruned arcs,Routes,MILP status,MILP opt,Time (s),Constraints,H-MA-LNS,Gap (%)
+SLAS100-n10,DV1M5,10,Yes,2,1,Optimal,21149.8,1.05,All satisfied,21149.8,0.0
+SLAS100-n12,DV1M5,12,Yes,2,1,Optimal,28155.8,2.5,All satisfied,28155.8,0.0
+SLAS100-n15,DV1M5,15,Yes,4,1,Optimal,40037.8,3.86,All satisfied,40037.8,0.0
+SLAS100-n18,DV1M5,18,Yes,6,1,Optimal,43099.8,3.52,All satisfied,43099.8,0.0
+SLAS100-n20,DV1M5,20,Yes,6,1,Optimal,45374.0,14.51,All satisfied,45374.0,0.0
+SLAS100-n10,DV1M20,10,Yes,2,2,Optimal,23513.8,0.11,All satisfied,23513.8,0.0
+SLAS100-n12,DV1M20,12,Yes,2,2,Optimal,30916.0,2.36,All satisfied,30916.0,0.0
+SLAS100-n15,DV1M20,15,Yes,4,2,Optimal,42348.0,3.92,All satisfied,42348.0,0.0
+SLAS100-n18,DV1M20,18,Yes,6,3,Optimal,47510.8,1.94,All satisfied,47510.8,0.0
+SLAS100-n20,DV1M20,20,Yes,6,3,Optimal,50226.8,9.01,All satisfied,50226.8,0.0
